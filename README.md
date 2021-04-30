@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">  <img height="150" src="https://marcosnunes.dev/images/faces/smile.svg">  </p>
+<div align="center"> 
+
+# Olá, eu sou o Marcos ✌️ 
+## Desenvolvedor Frontend, Designer, Professor e Pai.
+
+</div>
