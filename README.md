@@ -14,7 +14,7 @@ Desenvolvo aplicações usando Javascript do sonho ao trackeamento das métricas
 -   📫  Como falar comigo:  [Envia um Oi para o meu WhatsApp (24) 98822-1570](tel:24988221570)
 -   ❤️  Minha paixão é ajudar pessoas a conquistarem seus sonhos no mundo tech.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-nunes-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-nunes-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
 
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> : **OFFLINE (estou na Azure Devops😴)** 
 
