@@ -7,7 +7,17 @@
 
 [<img alt="Youtube" src="https://img.shields.io/badge/@Dev_logue-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCg44YwcYhVwEBvAR57UG6IA) - [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/marcos-renato-nunes/) - [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://marcosrenato.medium.com) - [<img alt="Instagram" src="https://img.shields.io/badge/@dev_logue-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/dev_logue/) - [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/devlogue) 
 
-I develop applications using Javascript from dream to metrics tracking. I'm passionate about Design and development, as a senior frontend by profession, when I can like to challenge myself and venture into backend, design and growth hacking. Ahh did I say I love contributing to the community too? I am currently coordinator of GDG Petrópolis, Speaker and coordinator of a personal project, @Dev_logue (follows on insta 🖤).
+I am a team lead / senior front-end developer with a strong background in design, react native and backend. I like to work preferably as a frontend, an area where I specialize and have greater passion.
+
+My fullstack knowledge is pretty much used when I work as a team/technological leader in partnership with other softskills that have led me to these roles. 
+
+I have over 10 years of experience as a developer, over 4 years as a teacher, over 4 years as a team lead in separate periods and a lot of love for what I do!
+
+if you want to know me more you can peek at the projects that I contribute with the community like instagram @dev_logue where I help beginners and give tips to get started in their career, as coordinator of the Google Developers group in Petropolis-RJ or by reading one of the my articles like:
+
+https://x--team-com.cdn.ampproject.org/c/s/x-team.com/blog/are-you-a-senior-developer/amp/ 
+
+If you prefer to talk a little, feel free to get in touch! I love a good conversation! ❤✌🏻
 
 -   🌱  Currently refining knowledge to become a "T" professional.
 -   👯  Seeking to be more active in communities! Talks, commits, ideas... just call me!
