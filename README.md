@@ -2,7 +2,7 @@
 
 <p align="center">  <img height="150" src="https://marcosnunes.dev/images/faces/smile.svg">  </p>
 <div align="center">
-<h1>Hi, I'm Marcos ✌️<br><small>Frontend Developer, Designer, Teacher and Father.</small></h1>
+<h1>Hi, I'm Marcos ✌️<br><small>Team Lead, Frontend Developer, Designer, Teacher and Father.</small></h1>
 </div>
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/marcos-renato-nunes/) - [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://marcosrenato.medium.com) - [<img alt="Instagram" src="https://img.shields.io/badge/@dev_logue-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/dev_logue/) - [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/devlogue) 
@@ -19,7 +19,7 @@ https://x--team-com.cdn.ampproject.org/c/s/x-team.com/blog/are-you-a-senior-deve
 
 If you prefer to talk a little, feel free to get in touch! I love a good conversation! ❤✌🏻
 
--   🌱  Currently refining knowledge to become a "T" professional.
+-   🌱  Currently helping developers around the world to evolve and archive the next level of their careers
 -   👯  Seeking to be more active in communities! Talks, commits, ideas... just call me!
 -   📫  how to talk to me:  [Send a Hi to my WhatsApp (24) 98822-1570](tel:24988221570)
 -   ❤️  My passion is to help people achieve their dreams in the tech world.
